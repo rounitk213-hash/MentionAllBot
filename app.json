@@ -1,15 +1,15 @@
 {
     "name": "Mention All Bot",
-    "description": "A simple mention all for telegram.",
+    "description": "A powerfull mention all bot for telegram.",
     "env": {
         "TOKEN": {
-            "description": "Enter bot token."
+            "description": "8364597001:AAGaHjRazVM5cPEpOx9T7pKtILSNyhfg0zk."
         },
         "APP_ID": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
+            "description": "22091901."
         },
         "API_HASH": {
-            "description": "Get this value from my.telegram.org! Please do not steal."
+            "description": "54b0cd5fb47a40265b197f1a110b20b8."
         }
     },
     "buildpacks": [{"url": "heroku/python"}]
